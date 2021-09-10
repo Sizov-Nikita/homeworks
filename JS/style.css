@@ -1,0 +1,26 @@
+
+.FirstBorder {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+.SecondBorder {
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-color: red;
+}
+
+.ThirdBorder {
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+    border-radius: 5px;
+}
+
+.FourthBorder {
+    border-left-style: solid;
+    border-left-width: 5px;
+    border-color: blue;
+    background-color: skyblue;
+}
