@@ -1,0 +1,27 @@
+
+body 
+{
+    background-color: #ffffe5;  
+    align-content: center   ;
+}
+
+.container__text 
+{
+    margin: auto;
+max-width: 618px;
+border-left: solid;
+border-bottom: solid;
+border-color: #FF9AA2;
+border-width: 5px;
+background-color: #FFB7B2;
+color: #47090f;
+}
+
+.container__picture 
+{
+    margin: auto;
+    max-width: 618px;
+    border: double;
+    border-color: #FF9AA2;
+    border-width: 5px;
+}

@@ -1,24 +1,22 @@
 
-.FirstBorder {
-    border-style: solid;
-    border-width: 2px;
-    border-color: black;
+.border_first {
+    border: double 3px red
 }
 
-.SecondBorder {
+.secondBorder {
     border-bottom-style: solid;
     border-bottom-width: 2px;
     border-color: red;
 }
 
-.ThirdBorder {
+.thirdBorder {
     border-style: solid;
     border-width: 2px;
     border-color: grey;
     border-radius: 5px;
 }
 
-.FourthBorder {
+.fourthBorder {
     border-left-style: solid;
     border-left-width: 5px;
     border-color: blue;
